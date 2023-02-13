@@ -19,4 +19,4 @@ Olá! Bem-vindo! Deixe-me explicar brevemente o que você encontrará aqui!
 Este repositório contém todos os conteúdos desenvolvidos em aula e os exercícios realizados durante a semana pré-curso.
 Espero que gostem e lembrem-se que foi aqui que dei meu primeiro passo nessa longa jornada para me tornar um desenvolvedor.
 
-Agradecemos a sua visita!
+Agradeço a sua visita!
