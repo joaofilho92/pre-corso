@@ -1,5 +1,3 @@
-English, Italian and Portughese.
-
 
 Hello! Welcome! I'll briefly explain what you'll find here! 
 This repository contains all the content done in class and the exercises done during the pre-course week.
